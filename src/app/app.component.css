@@ -1,0 +1,10 @@
+:input {
+ outline:none;
+}
+
+:host {
+  display: block;
+  border: 1px solid white;
+}
+
+h2 { font-weight: normal; }
